@@ -1,0 +1,11 @@
+yt-dlp
+PyQt6
+ffmpeg-python
+Pillow
+aiohttp
+appdirs
+python-dotenv
+
+# Dev / testing
+pytest
+pytest-asyncio
