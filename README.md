@@ -40,7 +40,7 @@ Designed with performance in mind, VidFetch features a robust asynchronous queue
 ### Setup
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/vidfetch.git
+    git clone https://github.com/doshibadev/vidfetch.git
     cd vidfetch
     ```
 
